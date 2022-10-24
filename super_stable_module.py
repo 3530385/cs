@@ -1,1 +1,1 @@
-print('superstable fuction')
+print('superstable fuction not broken never')
